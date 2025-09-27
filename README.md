@@ -13,7 +13,7 @@ MarioPyramid is a simple Python module that provides four different functions to
 You can clone the repository and use the module directly:
 
 ```bash
-git clone https://github.com/your-username/MarioPyramid.git
+git clone https://github.com/MeTOO98/Mario_Pyramid_Module.git
 
 cd MarioPyramid
 
